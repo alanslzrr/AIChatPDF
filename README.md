@@ -2,6 +2,11 @@
 
 # MultiPDF Chat App
 
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-Framework-orange.svg)](https://github.com/hwchase17/langchain)
+
 ## - **Introduction** *LLM - OpenAI - VectorDatabase* 
 The **MultiPDF Chat App** is a Python application designed for interacting with multiple PDF documents through a chat interface. It enables users to ask questions in natural language, and provides answers based on the content of the PDFs. The app leverages a language model for generating accurate responses to user queries. It is important to note that the application responds solely to questions pertinent to the loaded PDF documents.
 
@@ -40,3 +45,9 @@ To utilize the MultiPDF Chat App, adhere to the steps outlined below:
 3. Upon execution, the application will be accessible in your default web browser, presenting the user interface.
 4. Follow the instructions provided within the app to load multiple PDF documents.
 5. Utilize the chat interface to ask questions in natural language regarding the content of the loaded PDFs.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
